@@ -27,7 +27,7 @@
 .stateText {
   font-family: sans-serif;
   font-size: 10px;
-  fill: #fff;
+  fill: rgb(3, 3, 3);
   text-anchor: middle;
 }
 
@@ -39,6 +39,11 @@
 .chart {
   display: block;
   margin: 0;
+  background-image: url("https://media1.tenor.com/images/71035039c4b7e6392255f749f57f94a2/tenor.gif?itemid=4855988");
+  background-repeat: no-repeat;
+  background-position: 37% 30%;
+  background-size: 50%;
+  opacity: 0.5;
 }
 
 .d3-tip {
